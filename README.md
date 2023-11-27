@@ -2,14 +2,19 @@
 
 
 ## Team members
-Ruchira Nimmagadda, run14@pitt.edu
-Pearl Singer, pys6@pitt.edu
-Ara Narayan, ann160@pitt.edu
+Ruchira Nimmagadda, run14@pitt.edu <br>
+
+Pearl Singer, pys6@pitt.edu <br>
+
+Anandhi Narayan, ann160@pitt.edu <br>
+
+
 
 ## Data Sets Used
 
 ### crime.csv 
- https://data.wprdc.org/dataset/uniform-crime-reporting-data
+ https://data.wprdc.org/dataset/uniform-crime-reporting-data <br>
+ 
  "Police Incident Blotter (Archive)" -  contains crime incident data after it has been validated and processed. This data set contains information reported by City of Pittsburgh Police, and does not contain incidents that solely involve other police departments operating within the city (campus police, Port Authority, etc.)
 
 

@@ -1,8 +1,24 @@
 # finalProject
-repository for final project
 
-A Readme that contains:
-Team name
-Team members and their email addresses
-Description and links to the datasets used
-A one sentence overview of your repository, meant for someone who is not familiar with the project
+
+## Team members
+Ruchira Nimmagadda, run14@pitt.edu <br>
+
+Pearl Singer, pys6@pitt.edu <br>
+
+Anandhi Narayan, ann160@pitt.edu <br>
+
+
+
+## Data Sets Used
+
+### crime.csv 
+ https://data.wprdc.org/dataset/uniform-crime-reporting-data <br>
+ 
+ "Police Incident Blotter (Archive)" -  contains crime incident data after it has been validated and processed. This data set contains information reported by City of Pittsburgh Police, and does not contain incidents that solely involve other police departments operating within the city (campus police, Port Authority, etc.)
+
+
+Description and links to the datasets used: everyone will do their own
+
+## This Repository
+A one sentence overview of your repository, meant for someone who is not familiar with the project: ruchi will do 

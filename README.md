@@ -16,7 +16,7 @@ Anandhi Narayan, ann160@pitt.edu, Education Analysis.ipynb <br>
 
 ## Data Sets Used
 
-### crime.csv 
+### crime.csv (analyzed by Ruchi)
  https://data.wprdc.org/dataset/uniform-crime-reporting-data <br>
  
  "Police Incident Blotter (Archive)" -  contains crime incidents reported by the City of Pittsburgh Police since 2016. 
